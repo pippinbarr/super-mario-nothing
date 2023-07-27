@@ -57,3 +57,5 @@ Making the zeroed version has actually been really time consuming in a way I thi
 The other thing about the Rauschenberg, which is brutally obvious and really important, is that it's a singular object. There's only one of the drawing and when it's erased it's gone. Not true for the ROM. So that's not really part of it, but I do think that there's "aura stuff" and there's the idea of "Oh, so that's what you see when the game is gone" a bit too.
 
 I did increase the key repeat. This puppy's gonna take a while though.
+
+<video src="videos/zeroing-super-mario-bros.mp4"></video>
