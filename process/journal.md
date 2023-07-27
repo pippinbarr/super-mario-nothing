@@ -58,4 +58,7 @@ The other thing about the Rauschenberg, which is brutally obvious and really imp
 
 I did increase the key repeat. This puppy's gonna take a while though.
 
-<video src="videos/zeroing-super-mario-bros.mp4"></video>
+<video width="100%" controls>
+<source src="videos/zeroing-super-mario-bros.mp4" type="video/mp4">
+Uh oh. There's meant to be a video of zero-ing out the game here.
+</video>
