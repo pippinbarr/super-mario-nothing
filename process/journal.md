@@ -62,3 +62,16 @@ I did increase the key repeat. This puppy's gonna take a while though.
 <source src="videos/zeroing-super-mario-bros.mp4" type="video/mp4">
 Uh oh. There's meant to be a video of zero-ing out the game here.
 </video>
+
+## Zero-ing -- Monday, 31 July 2023
+
+So as it turns out I'm *still* zero-ing out the (Z) version of the game. Which I actually find quite fun and funny. Some thoughts:
+
+- For the commit I'm about to make (with this entry) I specifically added the file to the `.gitignore` to avoid having any of the original game's data in the repo. In my mind this functions as a (not necessarily very credible, but something) proof that this file is being manually zero-ed and did indeed contain the original data (and parts thereof).
+- I did spend time thinking about *how* to zero the file. There are at least two key ways: (1) automate it somehow to just replace all the data except the header with 0s - something that could take like 15 seconds to work out the regular express (or whatever) and then done. (2) manually zero out all the data by editing the file directly.
+- I'm going with (2) because (1) feels somehow too close to just generating an empty file of zeroes and because it goes in what appears to be a single moment (not really true at the level of computation and maybe I'm just totally kidding myself on this).
+- Also I think I just like how manual (2) is - it feels durational even though I'm holding down the 0 key and relying on the key repeat of the mac (which I sped up to max) to actually fill in the zeros. But still, I feel like it's more like the gradually erasing of a drawing than just it being deleted. Again here there's a "weird" thing about the fact that while I'm incrementally zeroing it
+  - (a) is in a buffer so it's not actually being committed to disk
+  - (b) ... something else?
+
+So yeah I'm happy to be slowly zero-ing out this file "by my own hands" and it will be done when it's done. Doing a bit a day. It's also kind of meditative to do because I can't use my computer for anything else so there's a kind of attention/inattention thing - I can relax while I zero.
