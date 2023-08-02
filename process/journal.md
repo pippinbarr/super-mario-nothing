@@ -75,3 +75,9 @@ So as it turns out I'm *still* zero-ing out the (Z) version of the game. Which I
   - (b) ... something else?
 
 So yeah I'm happy to be slowly zero-ing out this file "by my own hands" and it will be done when it's done. Doing a bit a day. It's also kind of meditative to do because I can't use my computer for anything else so there's a kind of attention/inattention thing - I can relax while I zero.
+
+## Continued zero-ing (2023-08-02)
+
+It's actually quite relaxing. Makes me think a bit of meditation, which is also fun in terms of "clear your mind" corresponding to the gradual deletion of data in a file. Makes me think a bit of a game/app where that's the representation/motivation to consider yourself meditating - the various forms of waiting that OSes provide to us. Progress bars, most obviously. Spinning beach balls.
+
+Anyway, zeroing.
