@@ -89,3 +89,7 @@ Good to be zero-ing a bit more. Felix did a few lines, so both he and Chip have 
 One thing that's noticeable (I assume/think) is that lower down in the file it all looks more rhythmic and patterns - repeated hex codes etc. - which I imagine is the image data/sprite stuff for the game. So it *feels* like I'm deleting something different in that moment.
 
 Aaaand... it's done. Let me make sure it still runs. It does. Mission accomplished.
+
+//
+
+Huh. About as anticlimactic as you would expect. What am I supposed to do now then? I need to probably write another go at the "why" and at least in theory I should also write a closing statement to follow the method. These are all reasonable things. Might have to be more of a "what I learned" than anything ... well obviously there's no interactivity or anything like that to think about. Let's try.
