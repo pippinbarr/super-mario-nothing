@@ -2,7 +2,7 @@
 
 ![Banner](images/super-mario-nothing-banner.png)
 
-# Download the [*Super Mario Nothing* ROM](https://github.com/pippinbarr/super-mario-nothing/releases/tag/rom) for NES
+# [Download the *Super Mario Nothing* ROMS](https://github.com/pippinbarr/super-mario-nothing/releases/tag/roms) for your NES emulator of choice
 
 ## Description
 
@@ -15,7 +15,7 @@
 ## Documentation
 
 * Read the [Process documentation](../process/) for process journal, to do list, and related work
-* Read the [Commit History](https://github.com/pippinbarr/super-mario-nothing/commits/main) for step-by-step information about how the project was built
+* Read the [Commit History](https://github.com/pippinbarr/super-mario-nothing/commits/main) for not-very-interesting step-by-step information about how the project was built
 * Look at the [Code Repository](https://github.com/pippinbarr/super-mario-nothing) for source code etc.
 
 ## Press
