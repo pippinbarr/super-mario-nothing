@@ -81,3 +81,11 @@ So yeah I'm happy to be slowly zero-ing out this file "by my own hands" and it w
 It's actually quite relaxing. Makes me think a bit of meditation, which is also fun in terms of "clear your mind" corresponding to the gradual deletion of data in a file. Makes me think a bit of a game/app where that's the representation/motivation to consider yourself meditating - the various forms of waiting that OSes provide to us. Progress bars, most obviously. Spinning beach balls.
 
 Anyway, zeroing.
+
+## Zero-ing, the different between code and image data? (2023-08-10)
+
+Good to be zero-ing a bit more. Felix did a few lines, so both he and Chip have contributed some zeroes.
+
+One thing that's noticeable (I assume/think) is that lower down in the file it all looks more rhythmic and patterns - repeated hex codes etc. - which I imagine is the image data/sprite stuff for the game. So it *feels* like I'm deleting something different in that moment.
+
+Aaaand... it's done. Let me make sure it still runs. It does. Mission accomplished.
