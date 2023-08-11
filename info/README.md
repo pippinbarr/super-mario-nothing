@@ -6,17 +6,19 @@
 
 ## Description
 
-*...*
+*Get ready to not jump on Goombas! Under a cloudless sky! Because there is no sky! Because there isn't anything! Enjoy your time off!*
 
-*Super Mario Nothing* is ...
+*Super Mario Nothing* is kind of a ROM hack of *Super Mario Bros.* for the NES. Except the hack is to delete everything while making sure the game still runs. There are two versions available. The (D) version (for *D*eleted) is a *Super Mario Bros.* ROM where all the data has been removed. The (Z) version (for *Z*eroed) is a *Super Mario Bros.* ROM where all the data has been zeroed out. Why? Because I needed an easy project, give me a break. Also I think it's a way to think about destruction as creation, the copyright status of erased data, the relationships between process and outcome, and *stuff like that*.
 
-*Super Mario Nothing* was created ...
+*Super Mario Nothing* was created using VS Code to edit the hex code in a ROM of *Super Mario Bros.*. I referred to the [NesDev.org wiki](https://www.nesdev.org/wiki/INES) for an explanation of the header information in NES ROMs.
+
+Would I like to make an actual cartridge version of this game? Yes I would.
 
 ## Documentation
 
-* Read the [Process documentation](../process/) for process journal, to do list, and related work
-* Read the [Commit History](https://github.com/pippinbarr/super-mario-nothing/commits/main) for not-very-interesting step-by-step information about how the project was built
-* Look at the [Code Repository](https://github.com/pippinbarr/super-mario-nothing) for source code etc.
+* Read the [Process documentation](../process/)
+* Read the [Commit History](https://github.com/pippinbarr/super-mario-nothing/commits/main) (not super-duper relevant to this project)
+* Look at the [Code Repository](https://github.com/pippinbarr/super-mario-nothing)
 
 ## Press
 
